@@ -11,7 +11,8 @@ This file contains queries for cleaning and preparing the restaurant sales datas
 Items with two selections were ignored.
 
 ## Setup information
-- Run the cleaning file on MySQL Workbench.
-- Create a table named "restaurant_sales_data" and import the dataset into it.
-- Review the comments in each queries and run it.
+- Import dataset into MySQL Workbench.
+- Create a new schema for the dataset and use the “Table Data Import Wizard” to import the dataset file.
+- Name the table "restaurant_sales_data".
+- Open the provided SQL file, review the comments in each query, and run it.
 
