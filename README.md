@@ -15,7 +15,7 @@ This repository includes the following tasks:
 
 
 ## Data Source  
-The dataset used in this project is from Kaggle that includes dirty data on the restaurant sales.  
+The dataset used in this project is from Kaggle and contains unclean restaurant sales data from 2022-2023. 
 
 ## Setup information
 - Upload and run the files on MySQL Workbench
